@@ -6,6 +6,11 @@ main branch:
 
 master braanch:
 こちらに以下のファイル、ディレクトリが入っている。
+
 ・src/
+
 ・Dockerfile
+
 ・docker-compose.yml
+
+尚、src/.gitファイルがあるとgit addできなかったので.gitは消した。それでもlocalで動作することは確認済み。
